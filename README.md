@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krrishguleria85/DSA-LEARNING/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krrishguleria85/DSA-LEARNING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0561-array-partition](https://github.com/krrishguleria85/DSA-LEARNING/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/krrishguleria85/DSA-LEARNING/tree/master/0561-array-partition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krrishguleria85/DSA-LEARNING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
